@@ -1,6 +1,0 @@
-echo "# mytpshop" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/v53201/mytpshop.git
-git push -u origin master
